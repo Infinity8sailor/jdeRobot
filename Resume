@@ -1,1 +1,24 @@
+// Resume  //
 
+CONTACT DETAILS
+
+Name : Vaibhav Dasharathe
+University : Vishwakarma Institute of Technology, pune, India
+E-mail : vinfinitysailor@gmail.com
+linkedin : linkedin.com/in/vaibhav-dasharathe-7a3165171
+
+STUDIES:
+Second year B.Tech Undergrade student  (2018-2022)
+Lead at robotics club (we are looking forward to participate in Robocup @ home 2021 )
+currently working on SLAM (with Kinect) , OpenCV , and Ros ....
+Working on this project will be additional parrallel progress along with robocup@home
+There are several exercises in robocup@home competition which are similar to jdeRobot Academy Exercises
+
+PROGRAMMING SKILLS
+well experienced on both Windows and linux along with rasp-berry pi OS
+work experience on RGB-D  with microsoft kinect X360 (also trying to extract depth values from smartphone cameras with android SDK)
+languages: python3, c/c++
+projects: 
+1.autonomous garbage detection on beach using raspberry pi , opencv , tensorflow , webcam
+2.3D slam visualization on Rviz and RTAB_MAP (youTube link: https://youtu.be/FSQ5wmNvX3I)
+3.(currently going on) AEROPLANE surveillence (using esp32 CAM)
